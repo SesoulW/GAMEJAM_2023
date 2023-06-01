@@ -119,8 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f04817455734dbf4a8be92a089f177d9
-      internalID: 1493172028
+      spriteID: 4bcc158aaa5a9934a814f579994aaa11
+      internalID: 329827861
       vertices: []
       indices: 
       edges: []
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fee6a141f8488dd459e63b2f20e90849
-      internalID: -780525033
+      spriteID: db4e3d7ee8f1e484bb1299de85a9a539
+      internalID: 947527176
       vertices: []
       indices: 
       edges: []
@@ -161,8 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b976c5439c0d6fb469fb6179ca2fd03a
-      internalID: -1314015548
+      spriteID: 59c00dce976c1974dbfd187ef317e734
+      internalID: 114894286
       vertices: []
       indices: 
       edges: []
@@ -182,8 +182,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 010854640cbb0ac44ac2613fa17d70a4
-      internalID: 1743379966
+      spriteID: 318b8b9ae7711f944a55cea4464eb7c5
+      internalID: -169589767
       vertices: []
       indices: 
       edges: []
@@ -199,10 +199,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      CharacterFall-Sheet_1: -780525033
-      CharacterFall-Sheet_0: 1493172028
-      CharacterFall-Sheet_2: -1314015548
-      CharacterFall-Sheet_3: 1743379966
+      CharacterFall-Sheet_1: 947527176
+      CharacterFall-Sheet_0: 329827861
+      CharacterFall-Sheet_2: 114894286
+      CharacterFall-Sheet_3: -169589767
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
