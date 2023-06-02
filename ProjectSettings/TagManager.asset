@@ -28,6 +28,7 @@ TagManager:
   - shard_blue
   - shard_yellow
   - shard_green
+  - lever
   layers:
   - Default
   - TransparentFX
