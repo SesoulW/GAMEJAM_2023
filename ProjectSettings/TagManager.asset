@@ -22,6 +22,12 @@ TagManager:
   - green
   - brown
   - back
+  - shard_brown
+  - shard_red
+  - shard_purple
+  - shard_blue
+  - shard_yellow
+  - shard_green
   layers:
   - Default
   - TransparentFX
