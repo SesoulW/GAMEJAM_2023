@@ -119,8 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a68d73dbfa41fdc4ca8aaaaea71f5340
-      internalID: 972809595
+      spriteID: f44b23b230bdd1248bb882d560b54a7d
+      internalID: -1091737122
       vertices: []
       indices: 
       edges: []
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07b07c84bc9ac2f4c9bfc4fb6ce365ff
-      internalID: 1979081857
+      spriteID: c7ab2518396b4f24690dc3aa1b1d3d3c
+      internalID: -299633232
       vertices: []
       indices: 
       edges: []
@@ -161,8 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89a12f703e1c1534cbe651b54bdbd9b3
-      internalID: -1861748109
+      spriteID: 7d39fb319422ca249b728b9b1ff2963a
+      internalID: 1727277654
       vertices: []
       indices: 
       edges: []
@@ -182,8 +182,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86621950fdbffef4e89a37102bcbae67
-      internalID: 1192625747
+      spriteID: 5e589b12772bf354c9694ce7699d0488
+      internalID: 931431500
       vertices: []
       indices: 
       edges: []
@@ -203,8 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6e14534eb482e6439cafdb8b015d22a
-      internalID: 1891947064
+      spriteID: 5e9efa128e1e722428b86ead7a164952
+      internalID: -1455472148
       vertices: []
       indices: 
       edges: []
@@ -224,8 +224,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58a9b9bb5c2427240b9dd60dff152d3d
-      internalID: -1315518261
+      spriteID: fb24425555cefed43807855d6faa9ac8
+      internalID: 287058623
       vertices: []
       indices: 
       edges: []
@@ -241,12 +241,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Button_States_Menu_Resume_5: -1315518261
-      Button_States_Menu_Resume_1: 1979081857
-      Button_States_Menu_Resume_2: -1861748109
-      Button_States_Menu_Resume_4: 1891947064
-      Button_States_Menu_Resume_3: 1192625747
-      Button_States_Menu_Resume_0: 972809595
+      Button_States_Menu_Resume_5: 287058623
+      Button_States_Menu_Resume_1: -299633232
+      Button_States_Menu_Resume_2: 1727277654
+      Button_States_Menu_Resume_4: -1455472148
+      Button_States_Menu_Resume_3: 931431500
+      Button_States_Menu_Resume_0: -1091737122
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
