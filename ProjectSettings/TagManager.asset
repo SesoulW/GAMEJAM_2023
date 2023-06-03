@@ -29,6 +29,20 @@ TagManager:
   - shard_yellow
   - shard_green
   - lever
+  - dark_goal
+  - goal_blue
+  - goal_brown
+  - goal_green
+  - goal_red
+  - goal_yellow
+  - goal
+  - goal_purple
+  - goal_dark_blue
+  - goal_dark_brown
+  - goal_dark_green
+  - goal_dark_red
+  - goal_dark_yellow
+  - goal_dark_purple
   layers:
   - Default
   - TransparentFX
