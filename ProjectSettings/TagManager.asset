@@ -43,6 +43,8 @@ TagManager:
   - goal_dark_red
   - goal_dark_yellow
   - goal_dark_purple
+  - SoundManager
+  - Bounce
   layers:
   - Default
   - TransparentFX
